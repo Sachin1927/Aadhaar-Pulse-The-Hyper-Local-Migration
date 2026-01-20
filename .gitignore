@@ -1,0 +1,13 @@
+# Ignore Data Files
+*.csv
+*.parquet
+*.xlsx
+*.zip
+*.json
+
+# Ignore Folders
+api_data_aadhaar_enrolment/
+api_data_aadhaar_demographic/
+__pycache__/
+.venv/
+env/
