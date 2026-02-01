@@ -1,7 +1,7 @@
 # 🇮🇳 Aadhaar-Pulse: Inter-District Migration Observatory
 ### *Hyper-local Decision Support System (DSS) for Administrative Resource Allocation*
 
-<div align="center">
+
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)
@@ -37,7 +37,7 @@ Aadhaar-Pulse utilizes anonymized aggregate data to create live proxy indicators
 
 
 
-</div>
+<div align="center">
 
 <br />
 
