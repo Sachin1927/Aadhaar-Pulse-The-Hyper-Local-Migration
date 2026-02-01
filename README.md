@@ -8,17 +8,6 @@
 [![Polars](https://img.shields.io/badge/Polars-⚡_Fast_Engine-fccb1c?style=for-the-badge&logo=polars&logoColor=black)](https://pola.rs)
 
 
-</div>
-
-<br />
-
-<img width="1728" height="2464" alt="aadhaar_pulse_dashboard" src="https://github.com/user-attachments/assets/11ca1383-bcdb-4340-8c40-89407cef9aa8" />
-
-
-
-  <p><em>Figure: Full Dashboard View demonstrating District-Level Drilldown, Descriptive Analytics, and AI-Driven Prescriptive Forecasting.</em></p>
-</div>
-
 ---
 
 ## 📋 Abstract
@@ -45,6 +34,19 @@ Aadhaar-Pulse utilizes anonymized aggregate data to create live proxy indicators
 * **Descriptive Analytics:** Real-time assessment of current migration pressure at both State and District levels.
 * **Prescriptive Analytics:** AI-driven actionable recommendations based on severity and forecasted trends.
 * **Context-Aware Visualization:** Dynamic charts that adapt based on the user's drill-down level (e.g., State Heatmaps vs. District Comparative Bell Curves).
+
+
+
+</div>
+
+<br />
+
+<img width="1728" height="2464" alt="aadhaar_pulse_dashboard" src="https://github.com/user-attachments/assets/11ca1383-bcdb-4340-8c40-89407cef9aa8" />
+
+
+
+  <p><em>Figure: Full Dashboard View demonstrating District-Level Drilldown, Descriptive Analytics, and AI-Driven Prescriptive Forecasting.</em></p>
+</div>
 
 ---
 
